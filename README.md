@@ -1,5 +1,5 @@
 # **Tugas Pemrograman**
->                                       My Profil
+>                                                 My Profil
 ```sh
 Nama  : Aef Saefuddin
 
@@ -8,7 +8,7 @@ Nim   : 312110521
 Kelas : T1.21.C5
 ```
 
->                                   Tugas Latihan
+>                                                Tugas Latihan
 
 ![img](screenshot/ss8.png)
 
@@ -303,4 +303,4 @@ Output Melihat Data dan Keluar dari Program.
 #### Flowchart
 ![img](screenshot/flowchart.png)
 
->                                  Sekian dan Terima Kasih
+>                                         Sekian dan Terima Kasih
