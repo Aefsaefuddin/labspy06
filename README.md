@@ -269,7 +269,7 @@ elif c.lower() == 'h':
 ```
 
 Output Menghapus Data
-![img](screenshot/ss9.PNG)
+![img](screenshot/ss9.png)
 
 >Mencari data dapat menggunakan
 ```py
@@ -290,7 +290,7 @@ Output Menghapus Data
 ```
 
 Output Mencari Data
-![img](screenshot/ss6.PNG)
+![img](screenshot/ss6.png)
 
 >Jika sudah selesai input pilih menu 'K' untuk memberhentikan program
 ```py
